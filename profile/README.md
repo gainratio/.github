@@ -66,10 +66,13 @@ For engineers inspecting the technical stack underneath the plain-English summar
 - **Tested before shipped.** Behavior is pinned by automated tests that run on every change, including cross-language compatibility suites.
 - **Reproducible from clone.** Each repo has a quickstart that takes you from `git clone` to working output.
 
-## About
+## About & Independence
 
-Harish Seshadri — Senior Principal Engineer (AI/ML) at Gap Inc. This is my open-source
-work, built in public. Reach me here on GitHub, or through any of the sites above.
+Harish Seshadri — Principal AI & Distributed Systems Architect. Every repository and package
+under **GainRatio** is authored 100% independently on personal time and personal infrastructure
+from public distributed-systems, security, and machine-learning principles — unaffiliated with
+any employer and containing zero employer or client strategy, ideas, code, or confidential data.
+Reach me here on GitHub, or through any of the sites above.
 
 ---
 
